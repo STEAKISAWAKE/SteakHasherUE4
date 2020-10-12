@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SteakHasher.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4\Projects\TestBed\Intermediate\Build\Win64\TestBedEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE4\Projects\TestBed\Plugins\SteakHasherUE4\Intermediate\Build\Win64\UE4Editor\Development\SteakHasher\Module.SteakHasher.cpp.obj"
+"D:\UE4\Projects\TestBed\Plugins\SteakHasherUE4\Intermediate\Build\Win64\UE4Editor\Development\SteakHasher\Module.SteakHasher.gen.cpp.obj"
+"D:\UE4\Projects\TestBed\Plugins\SteakHasherUE4\Intermediate\Build\Win64\UE4Editor\Development\SteakHasher\Default.rc2.res"
+/OUT:"D:\UE4\Projects\TestBed\Plugins\SteakHasherUE4\Intermediate\Build\Win64\UE4Editor\Development\SteakHasher\UE4Editor-SteakHasher.lib"
+/INCLUDE:IMPLEMENT_MODULE_SteakHasher

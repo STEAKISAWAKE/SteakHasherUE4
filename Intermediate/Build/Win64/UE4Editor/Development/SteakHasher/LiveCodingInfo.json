@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SteakHasher.cpp.obj": [
+			"SteakHasher.cpp.obj",
+			"SteakHasherBPLibrary.cpp.obj"
+		],
+		"Module.SteakHasher.gen.cpp.obj": [
+			"SteakHasher.init.gen.cpp.obj",
+			"SteakHasherBPLibrary.gen.cpp.obj"
+		]
+	}
+}
